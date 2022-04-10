@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab 1 My First App</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edit_first_message_hint">Enter a message</string>
+    <string name="button_first_send">Send</string>
+    <string name="textview_first_display">HI!</string>
+</resources>
