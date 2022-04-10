@@ -55,4 +55,8 @@ public class FirstFragment extends Fragment {
 
         Navigation.findNavController(getView()).navigate(directions);
     }
+
+    private void dummyMethod() {
+        Log.d("MESSAGE", "making change to FirstFragment to see if guthib updates");
+    }
 }
